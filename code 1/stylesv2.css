@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: white;
+}
+h1{
+    color: red;
+    background-color: aqua;
+    border-radius: 3px;
+    /*border-color: up right down left*/
+    border-color: red green blue yellow;
+    /*border-width: up right down left*/
+    border-width: 2px 4px 6px 8px;
+    /*border-style: up right down left*/
+    border-style: unset;
+}
+h2{
+    color: yellow;
+    background-color: blue;
+}
